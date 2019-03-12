@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detection">
+        <item>68 LandMarks</item>item>
+        <item>眨眼检测</item>item>
+        <item>摇头检测</item>item>
+    </string-array>
+</resources>
